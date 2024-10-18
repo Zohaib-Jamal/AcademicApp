@@ -1,6 +1,6 @@
 # AcademicApp
 
-An open-source project that I am working on my free time to create a an app for university students just to keep everything in place.
+An open-source project that I am working on my free time to create an app for university students just to keep everything in place.
 
 ## Installation
 To install dependencies.
